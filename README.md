@@ -7,6 +7,6 @@ Personal Experiments on Implementing a Spatial Transformer Network for identific
 Spatial transformer networks are a generalization of differentiable attention to any spatial transformation. Spatial transformer networks (STN for short) allow a neural network to learn how to perform spatial transformations on the input image in order to enhance the geometric invariance of the model.
 In this personal experiment, it can be seen that the localization network learns to pick affine transformations that improve the main models accuracy.
 
-Example transformation also shown on the experiment file:
+Simple transformations done by the network:
 
 ![STN-Theta](https://i.postimg.cc/xdWjNtx6/STN-network.png)
