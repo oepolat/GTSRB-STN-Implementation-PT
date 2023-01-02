@@ -8,4 +8,5 @@ Spatial transformer networks are a generalization of differentiable attention to
 In this personal experiment, it can be seen that the localization network learns to pick affine transformations that improve the main models accuracy.
 
 Example transformation also shown on the experiment file:
+
 ![STN-Theta](https://i.postimg.cc/xdWjNtx6/STN-network.png)
