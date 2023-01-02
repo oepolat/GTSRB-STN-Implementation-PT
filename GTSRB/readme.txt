@@ -1,0 +1,1 @@
+Insert GTSRB Database to GTSRB file. File system should be like: GTSRB-STN-Implementation-PT\GTSRB\Train\1\(image name) etc.
